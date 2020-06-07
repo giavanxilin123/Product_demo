@@ -1,0 +1,11 @@
+.fix{
+    display:block !important
+}
+a{
+    padding: 5px;
+    color: black;
+}
+a:hover{
+    color: green;
+    text-decoration: none;
+}
